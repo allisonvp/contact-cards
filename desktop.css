@@ -1,0 +1,19 @@
+
+.container-custom{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card-custom {
+    width: 41.5rem;
+}
+.card-custom h6 {
+    font-size: 1.6rem;
+}
+.right-column p{	
+    font-size: 1.8rem;
+}
+.button {
+    font-size: 1.8rem;
+}
